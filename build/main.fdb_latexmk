@@ -1,11 +1,11 @@
 # Fdb version 3
-["dvipdf"] 1582003707 "build/main.dvi" "build/main.pdf" "build/main" 1582003709
-  "build/main.dvi" 1582003707 4352 081466e20713d7ac616650c59db41d07 "latex"
+["dvipdf"] 1582005197 "build/main.dvi" "build/main.pdf" "build/main" 1582005199
+  "build/main.dvi" 1582005197 4560 24777ddaba4cf73534b55b0cec42b41d "latex"
   (generated)
   "build/main.pdf"
-["latex"] 1582003706 "d:/Documents/titech/H31_SS3/ss3_final/main.tex" "build/main.dvi" "main" 1582003709
-  "build//main.aux" 1582003707 903 03f34941878993af4059bbda35e0c3ce ""
-  "build/main.aux" 1582003707 903 03f34941878993af4059bbda35e0c3ce ""
+["latex"] 1582005194 "d:/Documents/titech/H31_SS3/ss3_final/main.tex" "build/main.dvi" "main" 1582005199
+  "build//main.aux" 1582005197 903 20cf8086c59e975f59ed29fb4e37a0c7 ""
+  "build/main.aux" 1582005197 903 20cf8086c59e975f59ed29fb4e37a0c7 ""
   "c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1555233563 3332 103109f5612ad95229751940c61aada0 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1555237863 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1555237863 468 53f854284f6afa6c36aaa2d1090ecc12 ""
@@ -66,12 +66,14 @@
   "c:/texlive/2018/texmf-dist/tex/platex/jsclasses/jslogo.sty" 1555234524 6061 1242b5308ecb0db77c71c1ff6c687ace ""
   "c:/texlive/2018/texmf-var/web2c/eptex/platex.fmt" 1555240603 4482284 394e6362422293a33bcf0290b733dfd7 ""
   "c:/texlive/2018/texmf.cnf" 1555240397 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "d:/Documents/titech/H31_SS3/ss3_final/main.tex" 1582003702 3996 dcf859914dd689ba289e3a4e6e0a432b ""
-  "main.tex" 1582003702 3996 dcf859914dd689ba289e3a4e6e0a432b ""
+  "d:/Documents/titech/H31_SS3/ss3_final/main.tex" 1582005184 3992 dc4c826d90601cd5104fa0a6fbc2004e ""
+  "fig/slide1.png" 1582005071 34972 accab4067a931165accd024510abff49 ""
+  "fig/slide2.png" 1582005051 160425 62a0db11089234328520df1e2664b629 ""
+  "main.tex" 1582005184 3992 dc4c826d90601cd5104fa0a6fbc2004e ""
   (generated)
-  "build/main.log"
   "build//main.log"
-  "build/main.dvi"
-  "build/main.aux"
+  "build/main.log"
   "build//main.aux"
+  "build/main.aux"
+  "build/main.dvi"
   "build//main.dvi"

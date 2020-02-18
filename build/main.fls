@@ -114,6 +114,10 @@ INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
+INPUT ./fig/slide1.png
+INPUT extractbb -B cropbox -O ./fig/slide1.png
+INPUT ./fig/slide2.png
+INPUT extractbb -B cropbox -O ./fig/slide2.png
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
 OUTPUT build//main.dvi
 INPUT build//main.aux
